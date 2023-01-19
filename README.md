@@ -9,5 +9,5 @@ theme: slate
 
 
 
-{%include docs/index.md%}
-{%include docs/cv.md%}
+{%include "docs/index.md"%}
+{%include "docs/cv.md"%}
