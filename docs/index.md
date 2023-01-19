@@ -10,3 +10,10 @@ logo: img/me.png
 Welcome dear reader to source of open mind and may the forces of open source be with you.
 
 For my deeds, you are welcome to check me on [Linkedin](https://linkedin.com/in/alex-schapelle), and in case you wish to read about my work, [GitLab](https://gitlab.com/silent-mobius) and [GitHub](https://github.com/zero-pytagoras), for other my babbling you can read it on [dev.to](https://dev.to/silent_mobius)
+
+There is also a list of hard working devs whom you ought to check out as well:
+- @shulyavraham
+- @adieg
+- @yoadk
+- @dshisher
+- @avivyunker
