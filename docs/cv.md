@@ -1,3 +1,9 @@
+---
+layout: default
+title: Silent-Mobius Was Here
+theme: slate
+---
+
 # __Curriculum Vitae__
 
 Name: Alex M. Schapelle
