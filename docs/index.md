@@ -2,6 +2,7 @@
 layout: default
 title: Silent-Mobius Was Here
 theme: minimal
+logo: img/me.png
 ---
 
 # welcome to the source forge

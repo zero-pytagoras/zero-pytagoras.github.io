@@ -2,8 +2,8 @@
 layout: default
 title: Silent-Mobius Was Here
 theme: minimal
+logo: img/me.png
 ---
-
 # __Curriculum Vitae__
 
 Name: Alex M. Schapelle
