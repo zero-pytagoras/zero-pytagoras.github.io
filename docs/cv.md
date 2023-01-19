@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Silent-Mobius Was Here
-theme: slate
+theme: minimal
 ---
 
 # __Curriculum Vitae__
@@ -12,7 +12,7 @@ E-mail : Alex@vaiolabs.com
 [Social](www.linkedin.com/in/alex-schapelle)
 [GitLab](www.gitlab.com/silent-mobius)
 [GitHub](www.github.com/zero-pytagoras)
-<img src="https://ca.slack-edge.com/T81GU7UUE-U80QM4RU5-916a75561c9f-512" style="height:15%;wight: 15%;") >
+<img src="https://ca.slack-edge.com/T81GU7UUE-U80QM4RU5-916a75561c9f-512" style="height: 15%;width: 15%;">
 ### About Me
 Digital nomad, seasoned back-end developer, DevOps & IT instructor, SysOps team-lead, hactivist for open-source,
 Unix based systems developer & maintainer, & open-source technologies consultant.
@@ -67,7 +67,7 @@ Unix based systems developer & maintainer, & open-source technologies consultant
 ### Education
 
 - 2011-2017 Associates degree in Software engineering at AFEKA college. Not fulfilled.
-- 2015 - RHEL cert version. (5,7)
+- 2015 - RHEL cert version. (5 & 7)
 - 2012-2013 WIFU Certification – Offensive security wireless pen-testing.
 - 2009-2010 Red Hat Certified Engineers(RHELv5) .
 - 2008-2009 Cisco certified network associate (CCNA).
@@ -79,6 +79,7 @@ Unix based systems developer & maintainer, & open-source technologies consultant
 - Learning: technology & general history of the world.
 - Dancing: salsa on weekends or whenever I am in mood.
 - Socializing: love to talk with people about 'self & others', philosophy & history.
+- War-Hammer 40K: not for mere mortals
 
 ### Languages:
 - Hebrew: a high-level reading, writing & speaking.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Silent-Mobius Was Here
-theme: slate
+theme: minimal
 ---
 
 # welcome to the source forge
