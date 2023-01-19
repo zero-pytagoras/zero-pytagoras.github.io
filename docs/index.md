@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Welcome to Zero-Pytagoras
-theme: minimal
+title: Silent-Mobius Was Here
+theme: slate
 ---
 
-<center>
-  <h1>
-    Welcome Dear Reader To The Source Forge
-  </h1>
-</center>
+# welcome to the source forge
+
+Welcome dear reader, may forces of open source be with you.
+
+{%include cv.md%}
