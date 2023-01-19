@@ -6,13 +6,13 @@ logo: img/me.png
 ---
 # __Curriculum Vitae__
 
+<img src="https://ca.slack-edge.com/T81GU7UUE-U80QM4RU5-916a75561c9f-512" style="height: 15%;width: 15%;">
 Name: Alex M. Schapelle
 Phone: +972-(0)549-877509
 E-mail : Alex@vaiolabs.com
 [Social](www.linkedin.com/in/alex-schapelle)
 [GitLab](www.gitlab.com/silent-mobius)
 [GitHub](www.github.com/zero-pytagoras)
-<img src="https://ca.slack-edge.com/T81GU7UUE-U80QM4RU5-916a75561c9f-512" style="height: 15%;width: 15%;">
 ### About Me
 Digital nomad, seasoned back-end developer, DevOps & IT instructor, SysOps team-lead, hactivist for open-source,
 Unix based systems developer & maintainer, & open-source technologies consultant.
