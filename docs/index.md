@@ -8,4 +8,3 @@ theme: slate
 
 Welcome dear reader, may forces of open source be with you.
 
-{%include cv.md%}
