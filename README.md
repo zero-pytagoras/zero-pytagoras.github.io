@@ -1,5 +1,13 @@
-<center> 
-  <h1>
-    Welcome Dear Reader To The Source Forge
-  </h1>
-</center>
+---
+layout: default
+title: Silent Mobius
+theme: slate
+---
+
+
+# Welcome to Source Forge
+
+
+
+{%include docs/index.md%}
+{%include docs/cv.md%}
